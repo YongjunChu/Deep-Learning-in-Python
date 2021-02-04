@@ -13,7 +13,7 @@ from keras.utils.np_utils import to_categorical
 import pandas as pd
 import math
 
-#This a testing
+#This a testing branch
 '''Cleaning Training Data'''
 
 train_data = pd.read_csv('Titanic_Data/train.csv')
